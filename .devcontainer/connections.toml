@@ -2,10 +2,10 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "myaccount"
-user = "myuser"
-password = "mypassword"
-role = "HOL_ROLE"
-warehouse = "HOL_WH"
-database = "HOL_DB"
+account = "RETAILTECH_SANDBOX"
+user = "SPANDEY5@LULULEMON.COM"
+password = "S@ibaba@12198722"
+role = "DEVELOPER_ROLE"
+warehouse = "DEVELOPER_WH"
+database = "POC_SNOWPARK_DB"
 schema = "ANALYTICS"
